@@ -11,7 +11,7 @@ html {
     font-size: 62.5%;
 }
 
-body {
+main {
     height: 100vh;
     background-color: var(--grey-background-color);
     display: flex;
